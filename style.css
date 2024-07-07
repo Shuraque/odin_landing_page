@@ -1,0 +1,49 @@
+* {
+    font: Roboto;
+}
+
+.hero, .footer{
+    background-color: #1F2937;
+    color: #F9FAF8;;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 600;
+}
+
+.hero_main {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero_secondary {
+    font-size: 18px;
+    font-weight: 200;
+    color: #E5E7EB;
+}
+
+.header_intro {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quote {
+    color: #1F2937;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.button {
+    font-size: 24px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
+
+
